@@ -1,0 +1,4 @@
+grpcio==1.54.2
+grpcio-tools==1.54.2
+ijson==3.2.0.post0
+protobuf==4.23.1
